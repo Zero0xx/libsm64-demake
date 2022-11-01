@@ -2,7 +2,7 @@
 
 My take on remaking libsm64
 
-- Regular [Libsm64 Project](https://github.com/libsm64/libsm64)
+- Regular [Libsm64] Project(https://github.com/libsm64/libsm64)
 
 ## Credits
 
